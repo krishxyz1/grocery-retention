@@ -13,77 +13,72 @@ export function perArm(p1: number, mde: number, alpha: string, power: string) {
   return Math.ceil(((a + b) / mde) ** 2);
 }
 
+const parse = (s: string) => Number(s.replace(',', '.').trim());
+
 export function SampleSize({ baseline }: { baseline: number }) {
-  const [p1, setP1] = useState(Math.round(baseline * 100));
-  const [mde, setMde] = useState(2);
+  const [p1, setP1] = useState(String(Math.round(baseline * 100)));
+  const [mde, setMde] = useState('2');
   const [alpha, setAlpha] = useState('0.05');
   const [power, setPower] = useState('0.8');
-  const [weekly, setWeekly] = useState(3000);
+  const [weekly, setWeekly] = useState('3000');
 
-  const valid = p1 > 0 && p1 + mde < 100 && mde > 0 && weekly > 0;
-  const n = valid ? perArm(p1 / 100, mde / 100, alpha, power) : 0;
-  const weeks = valid ? Math.ceil((2 * n) / weekly) : 0;
+  const base = parse(p1);
+  const lift = parse(mde);
+  const perWeek = parse(weekly);
+  const valid = base > 0 && lift > 0 && base + lift < 100 && perWeek > 0;
+  const n = valid ? perArm(base / 100, lift / 100, alpha, power) : 0;
+  const weeks = valid ? Math.ceil((2 * n) / perWeek) : 0;
 
   return (
-    <div className="calc">
-      <div className="calc-inputs">
+    <form className="calc" onSubmit={(e) => e.preventDefault()}>
+      <div className="calc-out" aria-live="polite">
+        <div>
+          <span className="calc-k">Shoppers per arm</span>
+          <span className="calc-v">{valid ? num(n) : '–'}</span>
+        </div>
+        <div>
+          <span className="calc-k">Weeks to enrol both arms</span>
+          <span className="calc-v">{valid ? weeks : '–'}</span>
+        </div>
+      </div>
+      {!valid && <p className="calc-error">The baseline plus the lift has to stay under 100%, and every figure must be above zero.</p>}
+      <div className="fields">
         <label>
-          <span>Baseline, next order ≤ 14 days</span>
-          <span className="field">
-            <input type="number" min={1} max={99} value={p1} onChange={(e) => setP1(+e.target.value)} />
+          <span>Baseline, next order in 14 days</span>
+          <span className="input">
+            <input name="baseline" inputMode="decimal" autoComplete="off" value={p1} onChange={(e) => setP1(e.target.value)} />
             <em>%</em>
           </span>
         </label>
         <label>
           <span>Smallest lift worth shipping</span>
-          <span className="field">
-            <input type="number" min={0.5} max={20} step={0.5} value={mde} onChange={(e) => setMde(+e.target.value)} />
-            <em>pp</em>
+          <span className="input">
+            <input name="lift" inputMode="decimal" autoComplete="off" value={mde} onChange={(e) => setMde(e.target.value)} />
+            <em>points</em>
           </span>
         </label>
         <label>
-          <span>Significance (two-sided α)</span>
-          <select value={alpha} onChange={(e) => setAlpha(e.target.value)}>
+          <span>Significance level</span>
+          <select name="alpha" value={alpha} onChange={(e) => setAlpha(e.target.value)}>
             <option value="0.05">0.05</option>
             <option value="0.01">0.01</option>
           </select>
         </label>
         <label>
           <span>Power</span>
-          <select value={power} onChange={(e) => setPower(e.target.value)}>
+          <select name="power" value={power} onChange={(e) => setPower(e.target.value)}>
             <option value="0.8">80%</option>
             <option value="0.9">90%</option>
           </select>
         </label>
         <label>
-          <span>Users reaching order 4 per week</span>
-          <span className="field">
-            <input type="number" min={100} step={100} value={weekly} onChange={(e) => setWeekly(+e.target.value)} />
+          <span>Shoppers reaching order 4 each week</span>
+          <span className="input">
+            <input name="weekly" inputMode="numeric" autoComplete="off" value={weekly} onChange={(e) => setWeekly(e.target.value)} />
           </span>
         </label>
       </div>
-      <div className="calc-out" aria-live="polite">
-        {valid ? (
-          <>
-            <div>
-              <span className="calc-k">Users per arm</span>
-              <span className="calc-v">{num(n)}</span>
-            </div>
-            <div>
-              <span className="calc-k">Enrolment time</span>
-              <span className="calc-v">
-                {weeks} {weeks === 1 ? 'week' : 'weeks'}
-              </span>
-            </div>
-            <p>
-              Plus a 14-day tail so the last user enrolled can complete the outcome window. Read the result once, at
-              the planned sample. No early stopping on a good-looking day.
-            </p>
-          </>
-        ) : (
-          <p>Baseline plus lift must stay under 100%, and every input must be positive.</p>
-        )}
-      </div>
-    </div>
+      <p className="small">Add 14 days after the last shopper enrols so their outcome window can close. Read the result once, at this sample.</p>
+    </form>
   );
 }
