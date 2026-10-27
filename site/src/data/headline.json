@@ -1,0 +1,16 @@
+[
+ {
+  "users": 206209,
+  "orders": 3421083,
+  "order_lines": 33819106,
+  "products": 49688,
+  "median_orders_per_user": 10,
+  "min_orders_per_user": 4,
+  "max_orders_per_user": 100,
+  "median_gap_days": 7,
+  "share_gaps_30plus": 0.1149,
+  "reorder_rate_after_first": 0.6287,
+  "avg_basket_items": 10.1071,
+  "avg_fresh_share": 0.539
+ }
+]

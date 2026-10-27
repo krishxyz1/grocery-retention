@@ -1,0 +1,44 @@
+[
+ {
+  "order_number": 4,
+  "users_at_step": 206209,
+  "p_next_within_14d": 0.58,
+  "p_reach_order_11": 0.4932
+ },
+ {
+  "order_number": 5,
+  "users_at_step": 182223,
+  "p_next_within_14d": 0.6024,
+  "p_reach_order_11": 0.5581
+ },
+ {
+  "order_number": 6,
+  "users_at_step": 162633,
+  "p_next_within_14d": 0.6256,
+  "p_reach_order_11": 0.6253
+ },
+ {
+  "order_number": 7,
+  "users_at_step": 146468,
+  "p_next_within_14d": 0.6457,
+  "p_reach_order_11": 0.6943
+ },
+ {
+  "order_number": 8,
+  "users_at_step": 132618,
+  "p_next_within_14d": 0.6636,
+  "p_reach_order_11": 0.7668
+ },
+ {
+  "order_number": 9,
+  "users_at_step": 120918,
+  "p_next_within_14d": 0.6804,
+  "p_reach_order_11": 0.841
+ },
+ {
+  "order_number": 10,
+  "users_at_step": 110728,
+  "p_next_within_14d": 0.703,
+  "p_reach_order_11": 0.9184
+ }
+]

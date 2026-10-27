@@ -1,0 +1,290 @@
+[
+ {
+  "cohort": "1 No fresh items",
+  "month": 0,
+  "cohort_users": 22476,
+  "retained": 1
+ },
+ {
+  "cohort": "1 No fresh items",
+  "month": 1,
+  "cohort_users": 22476,
+  "retained": 0.9754
+ },
+ {
+  "cohort": "1 No fresh items",
+  "month": 2,
+  "cohort_users": 22476,
+  "retained": 0.8881
+ },
+ {
+  "cohort": "1 No fresh items",
+  "month": 3,
+  "cohort_users": 22476,
+  "retained": 0.7326
+ },
+ {
+  "cohort": "1 No fresh items",
+  "month": 4,
+  "cohort_users": 22476,
+  "retained": 0.573
+ },
+ {
+  "cohort": "1 No fresh items",
+  "month": 5,
+  "cohort_users": 22476,
+  "retained": 0.4522
+ },
+ {
+  "cohort": "1 No fresh items",
+  "month": 6,
+  "cohort_users": 22476,
+  "retained": 0.3576
+ },
+ {
+  "cohort": "1 No fresh items",
+  "month": 7,
+  "cohort_users": 22476,
+  "retained": 0.2791
+ },
+ {
+  "cohort": "1 No fresh items",
+  "month": 8,
+  "cohort_users": 22476,
+  "retained": 0.214
+ },
+ {
+  "cohort": "1 No fresh items",
+  "month": 9,
+  "cohort_users": 22476,
+  "retained": 0.1599
+ },
+ {
+  "cohort": "1 No fresh items",
+  "month": 10,
+  "cohort_users": 22476,
+  "retained": 0.1119
+ },
+ {
+  "cohort": "1 No fresh items",
+  "month": 11,
+  "cohort_users": 22476,
+  "retained": 0.0698
+ },
+ {
+  "cohort": "2 Under a third fresh",
+  "month": 0,
+  "cohort_users": 34466,
+  "retained": 1
+ },
+ {
+  "cohort": "2 Under a third fresh",
+  "month": 1,
+  "cohort_users": 34466,
+  "retained": 0.9743
+ },
+ {
+  "cohort": "2 Under a third fresh",
+  "month": 2,
+  "cohort_users": 34466,
+  "retained": 0.8814
+ },
+ {
+  "cohort": "2 Under a third fresh",
+  "month": 3,
+  "cohort_users": 34466,
+  "retained": 0.7338
+ },
+ {
+  "cohort": "2 Under a third fresh",
+  "month": 4,
+  "cohort_users": 34466,
+  "retained": 0.5984
+ },
+ {
+  "cohort": "2 Under a third fresh",
+  "month": 5,
+  "cohort_users": 34466,
+  "retained": 0.489
+ },
+ {
+  "cohort": "2 Under a third fresh",
+  "month": 6,
+  "cohort_users": 34466,
+  "retained": 0.4011
+ },
+ {
+  "cohort": "2 Under a third fresh",
+  "month": 7,
+  "cohort_users": 34466,
+  "retained": 0.3248
+ },
+ {
+  "cohort": "2 Under a third fresh",
+  "month": 8,
+  "cohort_users": 34466,
+  "retained": 0.2582
+ },
+ {
+  "cohort": "2 Under a third fresh",
+  "month": 9,
+  "cohort_users": 34466,
+  "retained": 0.2
+ },
+ {
+  "cohort": "2 Under a third fresh",
+  "month": 10,
+  "cohort_users": 34466,
+  "retained": 0.1483
+ },
+ {
+  "cohort": "2 Under a third fresh",
+  "month": 11,
+  "cohort_users": 34466,
+  "retained": 0.0981
+ },
+ {
+  "cohort": "3 One to two thirds fresh",
+  "month": 0,
+  "cohort_users": 88315,
+  "retained": 1
+ },
+ {
+  "cohort": "3 One to two thirds fresh",
+  "month": 1,
+  "cohort_users": 88315,
+  "retained": 0.9775
+ },
+ {
+  "cohort": "3 One to two thirds fresh",
+  "month": 2,
+  "cohort_users": 88315,
+  "retained": 0.8917
+ },
+ {
+  "cohort": "3 One to two thirds fresh",
+  "month": 3,
+  "cohort_users": 88315,
+  "retained": 0.7524
+ },
+ {
+  "cohort": "3 One to two thirds fresh",
+  "month": 4,
+  "cohort_users": 88315,
+  "retained": 0.6214
+ },
+ {
+  "cohort": "3 One to two thirds fresh",
+  "month": 5,
+  "cohort_users": 88315,
+  "retained": 0.5184
+ },
+ {
+  "cohort": "3 One to two thirds fresh",
+  "month": 6,
+  "cohort_users": 88315,
+  "retained": 0.4318
+ },
+ {
+  "cohort": "3 One to two thirds fresh",
+  "month": 7,
+  "cohort_users": 88315,
+  "retained": 0.3574
+ },
+ {
+  "cohort": "3 One to two thirds fresh",
+  "month": 8,
+  "cohort_users": 88315,
+  "retained": 0.2913
+ },
+ {
+  "cohort": "3 One to two thirds fresh",
+  "month": 9,
+  "cohort_users": 88315,
+  "retained": 0.231
+ },
+ {
+  "cohort": "3 One to two thirds fresh",
+  "month": 10,
+  "cohort_users": 88315,
+  "retained": 0.1746
+ },
+ {
+  "cohort": "3 One to two thirds fresh",
+  "month": 11,
+  "cohort_users": 88315,
+  "retained": 0.1215
+ },
+ {
+  "cohort": "4 Mostly fresh",
+  "month": 0,
+  "cohort_users": 60952,
+  "retained": 1
+ },
+ {
+  "cohort": "4 Mostly fresh",
+  "month": 1,
+  "cohort_users": 60952,
+  "retained": 0.9767
+ },
+ {
+  "cohort": "4 Mostly fresh",
+  "month": 2,
+  "cohort_users": 60952,
+  "retained": 0.8934
+ },
+ {
+  "cohort": "4 Mostly fresh",
+  "month": 3,
+  "cohort_users": 60952,
+  "retained": 0.751
+ },
+ {
+  "cohort": "4 Mostly fresh",
+  "month": 4,
+  "cohort_users": 60952,
+  "retained": 0.6204
+ },
+ {
+  "cohort": "4 Mostly fresh",
+  "month": 5,
+  "cohort_users": 60952,
+  "retained": 0.5173
+ },
+ {
+  "cohort": "4 Mostly fresh",
+  "month": 6,
+  "cohort_users": 60952,
+  "retained": 0.4305
+ },
+ {
+  "cohort": "4 Mostly fresh",
+  "month": 7,
+  "cohort_users": 60952,
+  "retained": 0.3556
+ },
+ {
+  "cohort": "4 Mostly fresh",
+  "month": 8,
+  "cohort_users": 60952,
+  "retained": 0.291
+ },
+ {
+  "cohort": "4 Mostly fresh",
+  "month": 9,
+  "cohort_users": 60952,
+  "retained": 0.2348
+ },
+ {
+  "cohort": "4 Mostly fresh",
+  "month": 10,
+  "cohort_users": 60952,
+  "retained": 0.1805
+ },
+ {
+  "cohort": "4 Mostly fresh",
+  "month": 11,
+  "cohort_users": 60952,
+  "retained": 0.1258
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "first_basket": "First basket had produce",
+  "users": 150245,
+  "avg_orders": 17.2133,
+  "median_usual_gap": 13,
+  "share_reaching_10": 0.5516,
+  "share_reaching_20": 0.2766,
+  "share_gaps_30plus": 0.2318
+ },
+ {
+  "first_basket": "No produce in first basket",
+  "users": 55964,
+  "avg_orders": 14.9179,
+  "median_usual_gap": 14,
+  "share_reaching_10": 0.4978,
+  "share_reaching_20": 0.221,
+  "share_gaps_30plus": 0.2606
+ }
+]

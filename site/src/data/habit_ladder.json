@@ -1,0 +1,287 @@
+[
+ {
+  "order_number": 4,
+  "users_reaching": 206209,
+  "p_next_order": 0.8837
+ },
+ {
+  "order_number": 5,
+  "users_reaching": 182223,
+  "p_next_order": 0.8925
+ },
+ {
+  "order_number": 6,
+  "users_reaching": 162633,
+  "p_next_order": 0.9006
+ },
+ {
+  "order_number": 7,
+  "users_reaching": 146468,
+  "p_next_order": 0.9054
+ },
+ {
+  "order_number": 8,
+  "users_reaching": 132618,
+  "p_next_order": 0.9118
+ },
+ {
+  "order_number": 9,
+  "users_reaching": 120918,
+  "p_next_order": 0.9157
+ },
+ {
+  "order_number": 10,
+  "users_reaching": 110728,
+  "p_next_order": 0.9184
+ },
+ {
+  "order_number": 11,
+  "users_reaching": 101696,
+  "p_next_order": 0.9232
+ },
+ {
+  "order_number": 12,
+  "users_reaching": 93881,
+  "p_next_order": 0.9259
+ },
+ {
+  "order_number": 13,
+  "users_reaching": 86929,
+  "p_next_order": 0.9283
+ },
+ {
+  "order_number": 14,
+  "users_reaching": 80693,
+  "p_next_order": 0.9304
+ },
+ {
+  "order_number": 15,
+  "users_reaching": 75080,
+  "p_next_order": 0.9309
+ },
+ {
+  "order_number": 16,
+  "users_reaching": 69889,
+  "p_next_order": 0.9343
+ },
+ {
+  "order_number": 17,
+  "users_reaching": 65296,
+  "p_next_order": 0.9366
+ },
+ {
+  "order_number": 18,
+  "users_reaching": 61157,
+  "p_next_order": 0.9373
+ },
+ {
+  "order_number": 19,
+  "users_reaching": 57321,
+  "p_next_order": 0.9409
+ },
+ {
+  "order_number": 20,
+  "users_reaching": 53931,
+  "p_next_order": 0.9407
+ },
+ {
+  "order_number": 21,
+  "users_reaching": 50731,
+  "p_next_order": 0.9424
+ },
+ {
+  "order_number": 22,
+  "users_reaching": 47810,
+  "p_next_order": 0.9434
+ },
+ {
+  "order_number": 23,
+  "users_reaching": 45104,
+  "p_next_order": 0.9422
+ },
+ {
+  "order_number": 24,
+  "users_reaching": 42499,
+  "p_next_order": 0.9462
+ },
+ {
+  "order_number": 25,
+  "users_reaching": 40211,
+  "p_next_order": 0.9456
+ },
+ {
+  "order_number": 26,
+  "users_reaching": 38025,
+  "p_next_order": 0.9458
+ },
+ {
+  "order_number": 27,
+  "users_reaching": 35965,
+  "p_next_order": 0.9469
+ },
+ {
+  "order_number": 28,
+  "users_reaching": 34057,
+  "p_next_order": 0.9478
+ },
+ {
+  "order_number": 29,
+  "users_reaching": 32278,
+  "p_next_order": 0.9504
+ },
+ {
+  "order_number": 30,
+  "users_reaching": 30677,
+  "p_next_order": 0.9513
+ },
+ {
+  "order_number": 31,
+  "users_reaching": 29183,
+  "p_next_order": 0.9495
+ },
+ {
+  "order_number": 32,
+  "users_reaching": 27709,
+  "p_next_order": 0.95
+ },
+ {
+  "order_number": 33,
+  "users_reaching": 26323,
+  "p_next_order": 0.9516
+ },
+ {
+  "order_number": 34,
+  "users_reaching": 25050,
+  "p_next_order": 0.9527
+ },
+ {
+  "order_number": 35,
+  "users_reaching": 23864,
+  "p_next_order": 0.9515
+ },
+ {
+  "order_number": 36,
+  "users_reaching": 22707,
+  "p_next_order": 0.9553
+ },
+ {
+  "order_number": 37,
+  "users_reaching": 21692,
+  "p_next_order": 0.9517
+ },
+ {
+  "order_number": 38,
+  "users_reaching": 20644,
+  "p_next_order": 0.9535
+ },
+ {
+  "order_number": 39,
+  "users_reaching": 19684,
+  "p_next_order": 0.9541
+ },
+ {
+  "order_number": 40,
+  "users_reaching": 18780,
+  "p_next_order": 0.9532
+ },
+ {
+  "order_number": 41,
+  "users_reaching": 17902,
+  "p_next_order": 0.9506
+ },
+ {
+  "order_number": 42,
+  "users_reaching": 17017,
+  "p_next_order": 0.9522
+ },
+ {
+  "order_number": 43,
+  "users_reaching": 16203,
+  "p_next_order": 0.9541
+ },
+ {
+  "order_number": 44,
+  "users_reaching": 15460,
+  "p_next_order": 0.9532
+ },
+ {
+  "order_number": 45,
+  "users_reaching": 14736,
+  "p_next_order": 0.952
+ },
+ {
+  "order_number": 46,
+  "users_reaching": 14029,
+  "p_next_order": 0.9532
+ },
+ {
+  "order_number": 47,
+  "users_reaching": 13372,
+  "p_next_order": 0.9495
+ },
+ {
+  "order_number": 48,
+  "users_reaching": 12697,
+  "p_next_order": 0.9485
+ },
+ {
+  "order_number": 49,
+  "users_reaching": 12043,
+  "p_next_order": 0.9519
+ },
+ {
+  "order_number": 50,
+  "users_reaching": 11464,
+  "p_next_order": 0.9517
+ },
+ {
+  "order_number": 51,
+  "users_reaching": 10910,
+  "p_next_order": 0.9467
+ },
+ {
+  "order_number": 52,
+  "users_reaching": 10328,
+  "p_next_order": 0.949
+ },
+ {
+  "order_number": 53,
+  "users_reaching": 9801,
+  "p_next_order": 0.9465
+ },
+ {
+  "order_number": 54,
+  "users_reaching": 9277,
+  "p_next_order": 0.9462
+ },
+ {
+  "order_number": 55,
+  "users_reaching": 8778,
+  "p_next_order": 0.9516
+ },
+ {
+  "order_number": 56,
+  "users_reaching": 8353,
+  "p_next_order": 0.9533
+ },
+ {
+  "order_number": 57,
+  "users_reaching": 7963,
+  "p_next_order": 0.9503
+ },
+ {
+  "order_number": 58,
+  "users_reaching": 7567,
+  "p_next_order": 0.9547
+ },
+ {
+  "order_number": 59,
+  "users_reaching": 7224,
+  "p_next_order": 0.954
+ },
+ {
+  "order_number": 60,
+  "users_reaching": 6892,
+  "p_next_order": 0.956
+ }
+]

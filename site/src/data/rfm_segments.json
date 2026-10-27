@@ -1,0 +1,74 @@
+[
+ {
+  "segment": "Hibernating",
+  "users": 45214,
+  "share_users": 0.2193,
+  "avg_orders": 5.4996,
+  "median_latest_gap": 30,
+  "median_usual_gap": 29,
+  "avg_items": 9.4733,
+  "avg_r": 1.4665,
+  "avg_f": 1.4867,
+  "avg_m": 2.8504
+ },
+ {
+  "segment": "Champions",
+  "users": 45100,
+  "share_users": 0.2187,
+  "avg_orders": 35.6146,
+  "median_latest_gap": 6,
+  "median_usual_gap": 7,
+  "avg_items": 10.3416,
+  "avg_r": 4.5415,
+  "avg_f": 4.6204,
+  "avg_m": 3.1188
+ },
+ {
+  "segment": "Needs attention",
+  "users": 34380,
+  "share_users": 0.1667,
+  "avg_orders": 9.1924,
+  "median_latest_gap": 23,
+  "median_usual_gap": 20,
+  "avg_items": 10.1035,
+  "avg_r": 2.2014,
+  "avg_f": 2.5031,
+  "avg_m": 3.0043
+ },
+ {
+  "segment": "Loyal",
+  "users": 33636,
+  "share_users": 0.1631,
+  "avg_orders": 14.5475,
+  "median_latest_gap": 13,
+  "median_usual_gap": 13,
+  "avg_items": 10.2921,
+  "avg_r": 3.5833,
+  "avg_f": 3.4638,
+  "avg_m": 3.0769
+ },
+ {
+  "segment": "Slipping regulars",
+  "users": 25846,
+  "share_users": 0.1253,
+  "avg_orders": 24.5976,
+  "median_latest_gap": 30,
+  "median_usual_gap": 8,
+  "avg_items": 9.7755,
+  "avg_r": 2.0506,
+  "avg_f": 4.123,
+  "avg_m": 2.9833
+ },
+ {
+  "segment": "Promising",
+  "users": 22033,
+  "share_users": 0.1068,
+  "avg_orders": 5.6777,
+  "median_latest_gap": 7,
+  "median_usual_gap": 10,
+  "avg_items": 9.8928,
+  "avg_r": 4.4609,
+  "avg_f": 1.5388,
+  "avg_m": 2.959
+ }
+]

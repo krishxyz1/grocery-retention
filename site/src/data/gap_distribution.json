@@ -1,0 +1,157 @@
+[
+ {
+  "gap_days": 0,
+  "orders": 67755,
+  "share": 0.0211
+ },
+ {
+  "gap_days": 1,
+  "orders": 145247,
+  "share": 0.0452
+ },
+ {
+  "gap_days": 2,
+  "orders": 193206,
+  "share": 0.0601
+ },
+ {
+  "gap_days": 3,
+  "orders": 217005,
+  "share": 0.0675
+ },
+ {
+  "gap_days": 4,
+  "orders": 221696,
+  "share": 0.069
+ },
+ {
+  "gap_days": 5,
+  "orders": 214503,
+  "share": 0.0667
+ },
+ {
+  "gap_days": 6,
+  "orders": 240013,
+  "share": 0.0747
+ },
+ {
+  "gap_days": 7,
+  "orders": 320608,
+  "share": 0.0997
+ },
+ {
+  "gap_days": 8,
+  "orders": 181717,
+  "share": 0.0565
+ },
+ {
+  "gap_days": 9,
+  "orders": 118188,
+  "share": 0.0368
+ },
+ {
+  "gap_days": 10,
+  "orders": 95186,
+  "share": 0.0296
+ },
+ {
+  "gap_days": 11,
+  "orders": 80970,
+  "share": 0.0252
+ },
+ {
+  "gap_days": 12,
+  "orders": 76146,
+  "share": 0.0237
+ },
+ {
+  "gap_days": 13,
+  "orders": 83214,
+  "share": 0.0259
+ },
+ {
+  "gap_days": 14,
+  "orders": 100230,
+  "share": 0.0312
+ },
+ {
+  "gap_days": 15,
+  "orders": 66579,
+  "share": 0.0207
+ },
+ {
+  "gap_days": 16,
+  "orders": 46941,
+  "share": 0.0146
+ },
+ {
+  "gap_days": 17,
+  "orders": 39245,
+  "share": 0.0122
+ },
+ {
+  "gap_days": 18,
+  "orders": 35881,
+  "share": 0.0112
+ },
+ {
+  "gap_days": 19,
+  "orders": 34384,
+  "share": 0.0107
+ },
+ {
+  "gap_days": 20,
+  "orders": 38527,
+  "share": 0.012
+ },
+ {
+  "gap_days": 21,
+  "orders": 45470,
+  "share": 0.0141
+ },
+ {
+  "gap_days": 22,
+  "orders": 32012,
+  "share": 0.01
+ },
+ {
+  "gap_days": 23,
+  "orders": 23885,
+  "share": 0.0074
+ },
+ {
+  "gap_days": 24,
+  "orders": 20712,
+  "share": 0.0064
+ },
+ {
+  "gap_days": 25,
+  "orders": 19234,
+  "share": 0.006
+ },
+ {
+  "gap_days": 26,
+  "orders": 19016,
+  "share": 0.0059
+ },
+ {
+  "gap_days": 27,
+  "orders": 22013,
+  "share": 0.0068
+ },
+ {
+  "gap_days": 28,
+  "orders": 26777,
+  "share": 0.0083
+ },
+ {
+  "gap_days": 29,
+  "orders": 19191,
+  "share": 0.006
+ },
+ {
+  "gap_days": 30,
+  "orders": 369323,
+  "share": 0.1149
+ }
+]

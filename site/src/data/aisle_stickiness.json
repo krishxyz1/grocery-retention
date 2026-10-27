@@ -1,0 +1,1058 @@
+[
+ {
+  "aisle": "fresh fruits",
+  "department": "produce",
+  "is_fresh": true,
+  "penetration": 0.5568,
+  "reorder_rate": 0.7622,
+  "repeat_buyers": 0.9005
+ },
+ {
+  "aisle": "fresh vegetables",
+  "department": "produce",
+  "is_fresh": true,
+  "penetration": 0.4443,
+  "reorder_rate": 0.6333,
+  "repeat_buyers": 0.878
+ },
+ {
+  "aisle": "packaged vegetables fruits",
+  "department": "produce",
+  "is_fresh": true,
+  "penetration": 0.3674,
+  "reorder_rate": 0.68,
+  "repeat_buyers": 0.8376
+ },
+ {
+  "aisle": "yogurt",
+  "department": "dairy eggs",
+  "is_fresh": true,
+  "penetration": 0.2631,
+  "reorder_rate": 0.7302,
+  "repeat_buyers": 0.7924
+ },
+ {
+  "aisle": "milk",
+  "department": "dairy eggs",
+  "is_fresh": true,
+  "penetration": 0.2437,
+  "reorder_rate": 0.8269,
+  "repeat_buyers": 0.7736
+ },
+ {
+  "aisle": "packaged cheese",
+  "department": "dairy eggs",
+  "is_fresh": true,
+  "penetration": 0.2299,
+  "reorder_rate": 0.6245,
+  "repeat_buyers": 0.7641
+ },
+ {
+  "aisle": "water seltzer sparkling water",
+  "department": "beverages",
+  "is_fresh": false,
+  "penetration": 0.1916,
+  "reorder_rate": 0.7735,
+  "repeat_buyers": 0.7455
+ },
+ {
+  "aisle": "soy lactosefree",
+  "department": "dairy eggs",
+  "is_fresh": true,
+  "penetration": 0.1698,
+  "reorder_rate": 0.7356,
+  "repeat_buyers": 0.7299
+ },
+ {
+  "aisle": "chips pretzels",
+  "department": "snacks",
+  "is_fresh": false,
+  "penetration": 0.1677,
+  "reorder_rate": 0.6283,
+  "repeat_buyers": 0.7072
+ },
+ {
+  "aisle": "bread",
+  "department": "bakery",
+  "is_fresh": true,
+  "penetration": 0.164,
+  "reorder_rate": 0.7141,
+  "repeat_buyers": 0.7123
+ },
+ {
+  "aisle": "eggs",
+  "department": "dairy eggs",
+  "is_fresh": true,
+  "penetration": 0.1374,
+  "reorder_rate": 0.7514,
+  "repeat_buyers": 0.7073
+ },
+ {
+  "aisle": "refrigerated",
+  "department": "beverages",
+  "is_fresh": false,
+  "penetration": 0.1336,
+  "reorder_rate": 0.7055,
+  "repeat_buyers": 0.6784
+ },
+ {
+  "aisle": "frozen produce",
+  "department": "frozen",
+  "is_fresh": false,
+  "penetration": 0.1233,
+  "reorder_rate": 0.5807,
+  "repeat_buyers": 0.6535
+ },
+ {
+  "aisle": "crackers",
+  "department": "snacks",
+  "is_fresh": false,
+  "penetration": 0.1148,
+  "reorder_rate": 0.6076,
+  "repeat_buyers": 0.6494
+ },
+ {
+  "aisle": "ice cream ice",
+  "department": "frozen",
+  "is_fresh": false,
+  "penetration": 0.1102,
+  "reorder_rate": 0.5266,
+  "repeat_buyers": 0.6472
+ },
+ {
+  "aisle": "lunch meat",
+  "department": "deli",
+  "is_fresh": true,
+  "penetration": 0.1041,
+  "reorder_rate": 0.6479,
+  "repeat_buyers": 0.661
+ },
+ {
+  "aisle": "fresh dips tapenades",
+  "department": "deli",
+  "is_fresh": true,
+  "penetration": 0.0981,
+  "reorder_rate": 0.6516,
+  "repeat_buyers": 0.6277
+ },
+ {
+  "aisle": "fresh herbs",
+  "department": "produce",
+  "is_fresh": true,
+  "penetration": 0.0936,
+  "reorder_rate": 0.5517,
+  "repeat_buyers": 0.6385
+ },
+ {
+  "aisle": "cereal",
+  "department": "breakfast",
+  "is_fresh": false,
+  "penetration": 0.0927,
+  "reorder_rate": 0.6127,
+  "repeat_buyers": 0.6366
+ },
+ {
+  "aisle": "cream",
+  "department": "dairy eggs",
+  "is_fresh": true,
+  "penetration": 0.0916,
+  "reorder_rate": 0.7244,
+  "repeat_buyers": 0.6284
+ },
+ {
+  "aisle": "juice nectars",
+  "department": "beverages",
+  "is_fresh": false,
+  "penetration": 0.0897,
+  "reorder_rate": 0.6331,
+  "repeat_buyers": 0.6022
+ },
+ {
+  "aisle": "soft drinks",
+  "department": "beverages",
+  "is_fresh": false,
+  "penetration": 0.0869,
+  "reorder_rate": 0.6841,
+  "repeat_buyers": 0.6313
+ },
+ {
+  "aisle": "other creams cheeses",
+  "department": "dairy eggs",
+  "is_fresh": true,
+  "penetration": 0.0866,
+  "reorder_rate": 0.6032,
+  "repeat_buyers": 0.6153
+ },
+ {
+  "aisle": "energy granola bars",
+  "department": "snacks",
+  "is_fresh": false,
+  "penetration": 0.0864,
+  "reorder_rate": 0.6351,
+  "repeat_buyers": 0.6412
+ },
+ {
+  "aisle": "hot dogs bacon sausage",
+  "department": "meat seafood",
+  "is_fresh": true,
+  "penetration": 0.0842,
+  "reorder_rate": 0.5956,
+  "repeat_buyers": 0.6264
+ },
+ {
+  "aisle": "soup broth bouillon",
+  "department": "canned goods",
+  "is_fresh": false,
+  "penetration": 0.0835,
+  "reorder_rate": 0.4533,
+  "repeat_buyers": 0.6033
+ },
+ {
+  "aisle": "nuts seeds dried fruit",
+  "department": "snacks",
+  "is_fresh": false,
+  "penetration": 0.0806,
+  "reorder_rate": 0.5513,
+  "repeat_buyers": 0.5734
+ },
+ {
+  "aisle": "spreads",
+  "department": "pantry",
+  "is_fresh": false,
+  "penetration": 0.0779,
+  "reorder_rate": 0.5203,
+  "repeat_buyers": 0.5639
+ },
+ {
+  "aisle": "baking ingredients",
+  "department": "pantry",
+  "is_fresh": false,
+  "penetration": 0.0767,
+  "reorder_rate": 0.3264,
+  "repeat_buyers": 0.5503
+ },
+ {
+  "aisle": "butter",
+  "department": "dairy eggs",
+  "is_fresh": true,
+  "penetration": 0.0748,
+  "reorder_rate": 0.6141,
+  "repeat_buyers": 0.5706
+ },
+ {
+  "aisle": "frozen meals",
+  "department": "frozen",
+  "is_fresh": false,
+  "penetration": 0.0743,
+  "reorder_rate": 0.6032,
+  "repeat_buyers": 0.6429
+ },
+ {
+  "aisle": "canned jarred vegetables",
+  "department": "canned goods",
+  "is_fresh": false,
+  "penetration": 0.0737,
+  "reorder_rate": 0.4523,
+  "repeat_buyers": 0.5875
+ },
+ {
+  "aisle": "dry pasta",
+  "department": "dry goods pasta",
+  "is_fresh": false,
+  "penetration": 0.0707,
+  "reorder_rate": 0.4873,
+  "repeat_buyers": 0.586
+ },
+ {
+  "aisle": "canned meals beans",
+  "department": "canned goods",
+  "is_fresh": false,
+  "penetration": 0.0698,
+  "reorder_rate": 0.5412,
+  "repeat_buyers": 0.5904
+ },
+ {
+  "aisle": "candy chocolate",
+  "department": "snacks",
+  "is_fresh": false,
+  "penetration": 0.0694,
+  "reorder_rate": 0.6077,
+  "repeat_buyers": 0.588
+ },
+ {
+  "aisle": "breakfast bakery",
+  "department": "bakery",
+  "is_fresh": true,
+  "penetration": 0.0687,
+  "reorder_rate": 0.6925,
+  "repeat_buyers": 0.6119
+ },
+ {
+  "aisle": "oils vinegars",
+  "department": "pantry",
+  "is_fresh": false,
+  "penetration": 0.0678,
+  "reorder_rate": 0.3761,
+  "repeat_buyers": 0.5199
+ },
+ {
+  "aisle": "paper goods",
+  "department": "household",
+  "is_fresh": false,
+  "penetration": 0.0633,
+  "reorder_rate": 0.5657,
+  "repeat_buyers": 0.5856
+ },
+ {
+  "aisle": "packaged produce",
+  "department": "produce",
+  "is_fresh": true,
+  "penetration": 0.0625,
+  "reorder_rate": 0.7382,
+  "repeat_buyers": 0.6104
+ },
+ {
+  "aisle": "pasta sauce",
+  "department": "dry goods pasta",
+  "is_fresh": false,
+  "penetration": 0.0622,
+  "reorder_rate": 0.5153,
+  "repeat_buyers": 0.5663
+ },
+ {
+  "aisle": "frozen breakfast",
+  "department": "frozen",
+  "is_fresh": false,
+  "penetration": 0.0616,
+  "reorder_rate": 0.669,
+  "repeat_buyers": 0.6245
+ },
+ {
+  "aisle": "condiments",
+  "department": "pantry",
+  "is_fresh": false,
+  "penetration": 0.0598,
+  "reorder_rate": 0.332,
+  "repeat_buyers": 0.5074
+ },
+ {
+  "aisle": "cookies cakes",
+  "department": "snacks",
+  "is_fresh": false,
+  "penetration": 0.0591,
+  "reorder_rate": 0.5857,
+  "repeat_buyers": 0.5794
+ },
+ {
+  "aisle": "tea",
+  "department": "beverages",
+  "is_fresh": false,
+  "penetration": 0.0565,
+  "reorder_rate": 0.5592,
+  "repeat_buyers": 0.5399
+ },
+ {
+  "aisle": "tortillas flat bread",
+  "department": "bakery",
+  "is_fresh": true,
+  "penetration": 0.0564,
+  "reorder_rate": 0.5902,
+  "repeat_buyers": 0.5624
+ },
+ {
+  "aisle": "coffee",
+  "department": "beverages",
+  "is_fresh": false,
+  "penetration": 0.0558,
+  "reorder_rate": 0.6571,
+  "repeat_buyers": 0.5858
+ },
+ {
+  "aisle": "spices seasonings",
+  "department": "pantry",
+  "is_fresh": false,
+  "penetration": 0.0522,
+  "reorder_rate": 0.1641,
+  "repeat_buyers": 0.4808
+ },
+ {
+  "aisle": "frozen appetizers sides",
+  "department": "frozen",
+  "is_fresh": false,
+  "penetration": 0.0519,
+  "reorder_rate": 0.5634,
+  "repeat_buyers": 0.5753
+ },
+ {
+  "aisle": "instant foods",
+  "department": "dry goods pasta",
+  "is_fresh": false,
+  "penetration": 0.0518,
+  "reorder_rate": 0.5253,
+  "repeat_buyers": 0.5722
+ },
+ {
+  "aisle": "fruit vegetable snacks",
+  "department": "snacks",
+  "is_fresh": false,
+  "penetration": 0.0461,
+  "reorder_rate": 0.6273,
+  "repeat_buyers": 0.5714
+ },
+ {
+  "aisle": "baby food formula",
+  "department": "babies",
+  "is_fresh": false,
+  "penetration": 0.0459,
+  "reorder_rate": 0.6205,
+  "repeat_buyers": 0.6872
+ },
+ {
+  "aisle": "popcorn jerky",
+  "department": "snacks",
+  "is_fresh": false,
+  "penetration": 0.0455,
+  "reorder_rate": 0.6319,
+  "repeat_buyers": 0.5498
+ },
+ {
+  "aisle": "hot cereal pancake mixes",
+  "department": "breakfast",
+  "is_fresh": false,
+  "penetration": 0.0452,
+  "reorder_rate": 0.5328,
+  "repeat_buyers": 0.495
+ },
+ {
+  "aisle": "frozen pizza",
+  "department": "frozen",
+  "is_fresh": false,
+  "penetration": 0.0433,
+  "reorder_rate": 0.6264,
+  "repeat_buyers": 0.5936
+ },
+ {
+  "aisle": "asian foods",
+  "department": "international",
+  "is_fresh": false,
+  "penetration": 0.0431,
+  "reorder_rate": 0.3769,
+  "repeat_buyers": 0.4838
+ },
+ {
+  "aisle": "grains rice dried goods",
+  "department": "dry goods pasta",
+  "is_fresh": false,
+  "penetration": 0.0408,
+  "reorder_rate": 0.4273,
+  "repeat_buyers": 0.4861
+ },
+ {
+  "aisle": "poultry counter",
+  "department": "meat seafood",
+  "is_fresh": true,
+  "penetration": 0.0386,
+  "reorder_rate": 0.6526,
+  "repeat_buyers": 0.5631
+ },
+ {
+  "aisle": "packaged poultry",
+  "department": "meat seafood",
+  "is_fresh": true,
+  "penetration": 0.0359,
+  "reorder_rate": 0.6464,
+  "repeat_buyers": 0.5551
+ },
+ {
+  "aisle": "tofu meat alternatives",
+  "department": "deli",
+  "is_fresh": true,
+  "penetration": 0.0329,
+  "reorder_rate": 0.6512,
+  "repeat_buyers": 0.6048
+ },
+ {
+  "aisle": "buns rolls",
+  "department": "bakery",
+  "is_fresh": true,
+  "penetration": 0.0326,
+  "reorder_rate": 0.5681,
+  "repeat_buyers": 0.5092
+ },
+ {
+  "aisle": "preserved dips spreads",
+  "department": "pantry",
+  "is_fresh": false,
+  "penetration": 0.032,
+  "reorder_rate": 0.5046,
+  "repeat_buyers": 0.4722
+ },
+ {
+  "aisle": "pickled goods olives",
+  "department": "pantry",
+  "is_fresh": false,
+  "penetration": 0.0319,
+  "reorder_rate": 0.4792,
+  "repeat_buyers": 0.474
+ },
+ {
+  "aisle": "granola",
+  "department": "breakfast",
+  "is_fresh": false,
+  "penetration": 0.028,
+  "reorder_rate": 0.6363,
+  "repeat_buyers": 0.5189
+ },
+ {
+  "aisle": "doughs gelatins bake mixes",
+  "department": "pantry",
+  "is_fresh": false,
+  "penetration": 0.0279,
+  "reorder_rate": 0.4221,
+  "repeat_buyers": 0.4718
+ },
+ {
+  "aisle": "cleaning products",
+  "department": "household",
+  "is_fresh": false,
+  "penetration": 0.0277,
+  "reorder_rate": 0.3127,
+  "repeat_buyers": 0.4375
+ },
+ {
+  "aisle": "dish detergents",
+  "department": "household",
+  "is_fresh": false,
+  "penetration": 0.0274,
+  "reorder_rate": 0.4199,
+  "repeat_buyers": 0.4442
+ },
+ {
+  "aisle": "prepared meals",
+  "department": "deli",
+  "is_fresh": true,
+  "penetration": 0.0273,
+  "reorder_rate": 0.6583,
+  "repeat_buyers": 0.5459
+ },
+ {
+  "aisle": "salad dressing toppings",
+  "department": "pantry",
+  "is_fresh": false,
+  "penetration": 0.0272,
+  "reorder_rate": 0.3677,
+  "repeat_buyers": 0.4344
+ },
+ {
+  "aisle": "laundry",
+  "department": "household",
+  "is_fresh": false,
+  "penetration": 0.0251,
+  "reorder_rate": 0.4377,
+  "repeat_buyers": 0.455
+ },
+ {
+  "aisle": "frozen vegan vegetarian",
+  "department": "frozen",
+  "is_fresh": false,
+  "penetration": 0.0245,
+  "reorder_rate": 0.5854,
+  "repeat_buyers": 0.5636
+ },
+ {
+  "aisle": "canned fruit applesauce",
+  "department": "canned goods",
+  "is_fresh": false,
+  "penetration": 0.0243,
+  "reorder_rate": 0.5987,
+  "repeat_buyers": 0.5039
+ },
+ {
+  "aisle": "energy sports drinks",
+  "department": "beverages",
+  "is_fresh": false,
+  "penetration": 0.0242,
+  "reorder_rate": 0.6941,
+  "repeat_buyers": 0.5539
+ },
+ {
+  "aisle": "specialty cheeses",
+  "department": "dairy eggs",
+  "is_fresh": true,
+  "penetration": 0.0241,
+  "reorder_rate": 0.5209,
+  "repeat_buyers": 0.4559
+ },
+ {
+  "aisle": "meat counter",
+  "department": "meat seafood",
+  "is_fresh": true,
+  "penetration": 0.0216,
+  "reorder_rate": 0.567,
+  "repeat_buyers": 0.4997
+ },
+ {
+  "aisle": "frozen meat seafood",
+  "department": "frozen",
+  "is_fresh": false,
+  "penetration": 0.0214,
+  "reorder_rate": 0.5689,
+  "repeat_buyers": 0.4846
+ },
+ {
+  "aisle": "latino foods",
+  "department": "international",
+  "is_fresh": false,
+  "penetration": 0.0213,
+  "reorder_rate": 0.4267,
+  "repeat_buyers": 0.4419
+ },
+ {
+  "aisle": "honeys syrups nectars",
+  "department": "pantry",
+  "is_fresh": false,
+  "penetration": 0.0202,
+  "reorder_rate": 0.383,
+  "repeat_buyers": 0.3611
+ },
+ {
+  "aisle": "prepared soups salads",
+  "department": "deli",
+  "is_fresh": true,
+  "penetration": 0.0196,
+  "reorder_rate": 0.636,
+  "repeat_buyers": 0.4933
+ },
+ {
+  "aisle": "canned meat seafood",
+  "department": "canned goods",
+  "is_fresh": false,
+  "penetration": 0.0192,
+  "reorder_rate": 0.5148,
+  "repeat_buyers": 0.4641
+ },
+ {
+  "aisle": "breakfast bars pastries",
+  "department": "breakfast",
+  "is_fresh": false,
+  "penetration": 0.0185,
+  "reorder_rate": 0.6267,
+  "repeat_buyers": 0.536
+ },
+ {
+  "aisle": "marinades meat preparation",
+  "department": "pantry",
+  "is_fresh": false,
+  "penetration": 0.0183,
+  "reorder_rate": 0.3021,
+  "repeat_buyers": 0.3628
+ },
+ {
+  "aisle": "food storage",
+  "department": "household",
+  "is_fresh": false,
+  "penetration": 0.0175,
+  "reorder_rate": 0.2755,
+  "repeat_buyers": 0.3402
+ },
+ {
+  "aisle": "oral hygiene",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.0174,
+  "reorder_rate": 0.347,
+  "repeat_buyers": 0.4042
+ },
+ {
+  "aisle": "soap",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.0171,
+  "reorder_rate": 0.3402,
+  "repeat_buyers": 0.4189
+ },
+ {
+  "aisle": "vitamins supplements",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.0125,
+  "reorder_rate": 0.3295,
+  "repeat_buyers": 0.3672
+ },
+ {
+  "aisle": "frozen breads doughs",
+  "department": "frozen",
+  "is_fresh": false,
+  "penetration": 0.0122,
+  "reorder_rate": 0.5784,
+  "repeat_buyers": 0.4248
+ },
+ {
+  "aisle": "body lotions soap",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.0112,
+  "reorder_rate": 0.3581,
+  "repeat_buyers": 0.4179
+ },
+ {
+  "aisle": "plates bowls cups flatware",
+  "department": "household",
+  "is_fresh": false,
+  "penetration": 0.0112,
+  "reorder_rate": 0.4681,
+  "repeat_buyers": 0.3823
+ },
+ {
+  "aisle": "cat food care",
+  "department": "pets",
+  "is_fresh": false,
+  "penetration": 0.0108,
+  "reorder_rate": 0.6671,
+  "repeat_buyers": 0.6567
+ },
+ {
+  "aisle": "fresh pasta",
+  "department": "dry goods pasta",
+  "is_fresh": false,
+  "penetration": 0.0107,
+  "reorder_rate": 0.5432,
+  "repeat_buyers": 0.4363
+ },
+ {
+  "aisle": "trail mix snack mix",
+  "department": "snacks",
+  "is_fresh": false,
+  "penetration": 0.0106,
+  "reorder_rate": 0.6568,
+  "repeat_buyers": 0.4584
+ },
+ {
+  "aisle": "packaged meat",
+  "department": "meat seafood",
+  "is_fresh": true,
+  "penetration": 0.0104,
+  "reorder_rate": 0.577,
+  "repeat_buyers": 0.4197
+ },
+ {
+  "aisle": "bakery desserts",
+  "department": "bakery",
+  "is_fresh": true,
+  "penetration": 0.0103,
+  "reorder_rate": 0.5306,
+  "repeat_buyers": 0.4053
+ },
+ {
+  "aisle": "protein meal replacements",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.0102,
+  "reorder_rate": 0.5391,
+  "repeat_buyers": 0.4195
+ },
+ {
+  "aisle": "refrigerated pudding desserts",
+  "department": "dairy eggs",
+  "is_fresh": true,
+  "penetration": 0.01,
+  "reorder_rate": 0.5962,
+  "repeat_buyers": 0.4783
+ },
+ {
+  "aisle": "trash bags liners",
+  "department": "household",
+  "is_fresh": false,
+  "penetration": 0.0096,
+  "reorder_rate": 0.3628,
+  "repeat_buyers": 0.3284
+ },
+ {
+  "aisle": "beers coolers",
+  "department": "alcohol",
+  "is_fresh": false,
+  "penetration": 0.0092,
+  "reorder_rate": 0.6153,
+  "repeat_buyers": 0.564
+ },
+ {
+  "aisle": "seafood counter",
+  "department": "meat seafood",
+  "is_fresh": true,
+  "penetration": 0.0091,
+  "reorder_rate": 0.5545,
+  "repeat_buyers": 0.4304
+ },
+ {
+  "aisle": "dog food care",
+  "department": "pets",
+  "is_fresh": false,
+  "penetration": 0.0081,
+  "reorder_rate": 0.6024,
+  "repeat_buyers": 0.5237
+ },
+ {
+  "aisle": "hair care",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.0079,
+  "reorder_rate": 0.2666,
+  "repeat_buyers": 0.3354
+ },
+ {
+  "aisle": "digestion",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.0079,
+  "reorder_rate": 0.4726,
+  "repeat_buyers": 0.3735
+ },
+ {
+  "aisle": "red wines",
+  "department": "alcohol",
+  "is_fresh": false,
+  "penetration": 0.0078,
+  "reorder_rate": 0.6001,
+  "repeat_buyers": 0.5575
+ },
+ {
+  "aisle": "white wines",
+  "department": "alcohol",
+  "is_fresh": false,
+  "penetration": 0.0078,
+  "reorder_rate": 0.6862,
+  "repeat_buyers": 0.5648
+ },
+ {
+  "aisle": "spirits",
+  "department": "alcohol",
+  "is_fresh": false,
+  "penetration": 0.0071,
+  "reorder_rate": 0.6203,
+  "repeat_buyers": 0.5373
+ },
+ {
+  "aisle": "diapers wipes",
+  "department": "babies",
+  "is_fresh": false,
+  "penetration": 0.0069,
+  "reorder_rate": 0.5415,
+  "repeat_buyers": 0.4712
+ },
+ {
+  "aisle": "cold flu allergy",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.0066,
+  "reorder_rate": 0.2521,
+  "repeat_buyers": 0.2953
+ },
+ {
+  "aisle": "baking supplies decor",
+  "department": "pantry",
+  "is_fresh": false,
+  "penetration": 0.0065,
+  "reorder_rate": 0.1801,
+  "repeat_buyers": 0.2274
+ },
+ {
+  "aisle": "packaged seafood",
+  "department": "meat seafood",
+  "is_fresh": true,
+  "penetration": 0.0064,
+  "reorder_rate": 0.5452,
+  "repeat_buyers": 0.4121
+ },
+ {
+  "aisle": "frozen dessert",
+  "department": "frozen",
+  "is_fresh": false,
+  "penetration": 0.0059,
+  "reorder_rate": 0.4585,
+  "repeat_buyers": 0.3528
+ },
+ {
+  "aisle": "mint gum",
+  "department": "snacks",
+  "is_fresh": false,
+  "penetration": 0.0057,
+  "reorder_rate": 0.5955,
+  "repeat_buyers": 0.45
+ },
+ {
+  "aisle": "cocoa drink mixes",
+  "department": "beverages",
+  "is_fresh": false,
+  "penetration": 0.0057,
+  "reorder_rate": 0.435,
+  "repeat_buyers": 0.327
+ },
+ {
+  "aisle": "muscles joints pain relief",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.0056,
+  "reorder_rate": 0.3688,
+  "repeat_buyers": 0.2941
+ },
+ {
+  "aisle": "bulk dried fruits vegetables",
+  "department": "bulk",
+  "is_fresh": false,
+  "penetration": 0.0054,
+  "reorder_rate": 0.6494,
+  "repeat_buyers": 0.4211
+ },
+ {
+  "aisle": "feminine care",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.0052,
+  "reorder_rate": 0.3456,
+  "repeat_buyers": 0.3489
+ },
+ {
+  "aisle": "bulk grains rice dried goods",
+  "department": "bulk",
+  "is_fresh": false,
+  "penetration": 0.0052,
+  "reorder_rate": 0.5633,
+  "repeat_buyers": 0.4035
+ },
+ {
+  "aisle": "air fresheners candles",
+  "department": "household",
+  "is_fresh": false,
+  "penetration": 0.0052,
+  "reorder_rate": 0.3344,
+  "repeat_buyers": 0.3182
+ },
+ {
+  "aisle": "more household",
+  "department": "household",
+  "is_fresh": false,
+  "penetration": 0.0051,
+  "reorder_rate": 0.2671,
+  "repeat_buyers": 0.2659
+ },
+ {
+  "aisle": "deodorants",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.0044,
+  "reorder_rate": 0.2585,
+  "repeat_buyers": 0.2712
+ },
+ {
+  "aisle": "indian foods",
+  "department": "international",
+  "is_fresh": false,
+  "penetration": 0.0041,
+  "reorder_rate": 0.4346,
+  "repeat_buyers": 0.3773
+ },
+ {
+  "aisle": "facial care",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.0035,
+  "reorder_rate": 0.3478,
+  "repeat_buyers": 0.3489
+ },
+ {
+  "aisle": "kosher foods",
+  "department": "international",
+  "is_fresh": false,
+  "penetration": 0.0033,
+  "reorder_rate": 0.4267,
+  "repeat_buyers": 0.3166
+ },
+ {
+  "aisle": "ice cream toppings",
+  "department": "snacks",
+  "is_fresh": false,
+  "penetration": 0.0032,
+  "reorder_rate": 0.2885,
+  "repeat_buyers": 0.2458
+ },
+ {
+  "aisle": "specialty wines champagnes",
+  "department": "alcohol",
+  "is_fresh": false,
+  "penetration": 0.0031,
+  "reorder_rate": 0.5318,
+  "repeat_buyers": 0.4289
+ },
+ {
+  "aisle": "first aid",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.003,
+  "reorder_rate": 0.2121,
+  "repeat_buyers": 0.2186
+ },
+ {
+  "aisle": "shave needs",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.003,
+  "reorder_rate": 0.2858,
+  "repeat_buyers": 0.2825
+ },
+ {
+  "aisle": "skin care",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.0029,
+  "reorder_rate": 0.2564,
+  "repeat_buyers": 0.2911
+ },
+ {
+  "aisle": "kitchen supplies",
+  "department": "household",
+  "is_fresh": false,
+  "penetration": 0.0027,
+  "reorder_rate": 0.2106,
+  "repeat_buyers": 0.1815
+ },
+ {
+  "aisle": "eye ear care",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.0027,
+  "reorder_rate": 0.2423,
+  "repeat_buyers": 0.2186
+ },
+ {
+  "aisle": "baby accessories",
+  "department": "babies",
+  "is_fresh": false,
+  "penetration": 0.0025,
+  "reorder_rate": 0.5796,
+  "repeat_buyers": 0.3907
+ },
+ {
+  "aisle": "baby bath body care",
+  "department": "babies",
+  "is_fresh": false,
+  "penetration": 0.0025,
+  "reorder_rate": 0.3133,
+  "repeat_buyers": 0.2935
+ },
+ {
+  "aisle": "beauty",
+  "department": "personal care",
+  "is_fresh": false,
+  "penetration": 0.0018,
+  "reorder_rate": 0.2307,
+  "repeat_buyers": 0.2071
+ },
+ {
+  "aisle": "frozen juice",
+  "department": "frozen",
+  "is_fresh": false,
+  "penetration": 0.0013,
+  "reorder_rate": 0.4799,
+  "repeat_buyers": 0.3256
+ }
+]

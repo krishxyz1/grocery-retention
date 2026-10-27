@@ -1,0 +1,38 @@
+[
+ {
+  "cadence": "1 Weekly",
+  "users": 65819,
+  "share_users": 0.3192,
+  "avg_orders": 29.3988,
+  "avg_items": 10.047,
+  "avg_first_fresh_share": 0.5398,
+  "share_orders": 0.5656
+ },
+ {
+  "cadence": "2 Fortnightly",
+  "users": 62061,
+  "share_users": 0.301,
+  "avg_orders": 14.2365,
+  "avg_items": 10.2629,
+  "avg_first_fresh_share": 0.5218,
+  "share_orders": 0.2583
+ },
+ {
+  "cadence": "3 Monthly",
+  "users": 48266,
+  "share_users": 0.2341,
+  "avg_orders": 8.8289,
+  "avg_items": 9.9425,
+  "avg_first_fresh_share": 0.5056,
+  "share_orders": 0.1246
+ },
+ {
+  "cadence": "4 Lapsing (30+)",
+  "users": 30063,
+  "share_users": 0.1458,
+  "avg_orders": 5.8682,
+  "avg_items": 9.3405,
+  "avg_first_fresh_share": 0.4908,
+  "share_orders": 0.0516
+ }
+]

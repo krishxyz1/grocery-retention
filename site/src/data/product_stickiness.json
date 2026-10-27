@@ -1,0 +1,272 @@
+[
+ {
+  "kind": "staple",
+  "product_name": "Banana",
+  "aisle": "fresh fruits",
+  "department": "produce",
+  "buyers": 76125,
+  "repurchase_rate": 0.7512,
+  "avg_times": 6.4537
+ },
+ {
+  "kind": "staple",
+  "product_name": "Milk, Organic, Vitamin D",
+  "aisle": "milk",
+  "department": "dairy eggs",
+  "buyers": 3017,
+  "repurchase_rate": 0.7229,
+  "avg_times": 6.8843
+ },
+ {
+  "kind": "staple",
+  "product_name": "Bag of Organic Bananas",
+  "aisle": "fresh fruits",
+  "department": "produce",
+  "buyers": 65655,
+  "repurchase_rate": 0.7168,
+  "avg_times": 6.0152
+ },
+ {
+  "kind": "staple",
+  "product_name": "Organic Reduced Fat Milk",
+  "aisle": "milk",
+  "department": "dairy eggs",
+  "buyers": 5475,
+  "repurchase_rate": 0.6995,
+  "avg_times": 6.7341
+ },
+ {
+  "kind": "staple",
+  "product_name": "Organic Hass Avocado",
+  "aisle": "fresh fruits",
+  "department": "produce",
+  "buyers": 44704,
+  "repurchase_rate": 0.6721,
+  "avg_times": 4.9409
+ },
+ {
+  "kind": "staple",
+  "product_name": "Organic Baby Spinach",
+  "aisle": "packaged vegetables fruits",
+  "department": "produce",
+  "buyers": 56766,
+  "repurchase_rate": 0.6711,
+  "avg_times": 4.4341
+ },
+ {
+  "kind": "staple",
+  "product_name": "Organic Whole Milk",
+  "aisle": "milk",
+  "department": "dairy eggs",
+  "buyers": 24129,
+  "repurchase_rate": 0.6687,
+  "avg_times": 5.9187
+ },
+ {
+  "kind": "staple",
+  "product_name": "Pure Sparkling Water",
+  "aisle": "water seltzer sparkling water",
+  "department": "beverages",
+  "buyers": 5599,
+  "repurchase_rate": 0.6655,
+  "avg_times": 5.3597
+ },
+ {
+  "kind": "staple",
+  "product_name": "Organic Fat Free Milk",
+  "aisle": "milk",
+  "department": "dairy eggs",
+  "buyers": 4578,
+  "repurchase_rate": 0.6621,
+  "avg_times": 5.9856
+ },
+ {
+  "kind": "staple",
+  "product_name": "Large Alfresco Eggs",
+  "aisle": "eggs",
+  "department": "dairy eggs",
+  "buyers": 9453,
+  "repurchase_rate": 0.6564,
+  "avg_times": 4.472
+ },
+ {
+  "kind": "staple",
+  "product_name": "Organic Strawberries",
+  "aisle": "fresh fruits",
+  "department": "produce",
+  "buyers": 61129,
+  "repurchase_rate": 0.6522,
+  "avg_times": 4.5081
+ },
+ {
+  "kind": "staple",
+  "product_name": "Baby Cucumbers",
+  "aisle": "packaged produce",
+  "department": "produce",
+  "buyers": 3230,
+  "repurchase_rate": 0.652,
+  "avg_times": 4.6536
+ },
+ {
+  "kind": "staple",
+  "product_name": "Organic Avocado",
+  "aisle": "fresh fruits",
+  "department": "produce",
+  "buyers": 43954,
+  "repurchase_rate": 0.6479,
+  "avg_times": 4.1913
+ },
+ {
+  "kind": "staple",
+  "product_name": "Organic Large Brown Grade AA Cage Free Eggs",
+  "aisle": "eggs",
+  "department": "dairy eggs",
+  "buyers": 7393,
+  "repurchase_rate": 0.6425,
+  "avg_times": 4.4964
+ },
+ {
+  "kind": "staple",
+  "product_name": "Italian Sparkling Mineral Water",
+  "aisle": "water seltzer sparkling water",
+  "department": "beverages",
+  "buyers": 5950,
+  "repurchase_rate": 0.6334,
+  "avg_times": 5.3897
+ },
+ {
+  "kind": "one_and_done",
+  "product_name": "Organic Yellow Mustard",
+  "aisle": "condiments",
+  "department": "pantry",
+  "buyers": 4799,
+  "repurchase_rate": 0.1748,
+  "avg_times": 1.3086
+ },
+ {
+  "kind": "one_and_done",
+  "product_name": "Pure Baking Soda",
+  "aisle": "baking ingredients",
+  "department": "pantry",
+  "buyers": 6445,
+  "repurchase_rate": 0.1742,
+  "avg_times": 1.2939
+ },
+ {
+  "kind": "one_and_done",
+  "product_name": "Authentic Red Curry Paste",
+  "aisle": "condiments",
+  "department": "pantry",
+  "buyers": 3219,
+  "repurchase_rate": 0.1733,
+  "avg_times": 1.2818
+ },
+ {
+  "kind": "one_and_done",
+  "product_name": "Classic Yellow Mustard",
+  "aisle": "condiments",
+  "department": "pantry",
+  "buyers": 4248,
+  "repurchase_rate": 0.1693,
+  "avg_times": 1.2738
+ },
+ {
+  "kind": "one_and_done",
+  "product_name": "Organic Shredded Unsweetened Coconut",
+  "aisle": "baking ingredients",
+  "department": "pantry",
+  "buyers": 3275,
+  "repurchase_rate": 0.164,
+  "avg_times": 1.309
+ },
+ {
+  "kind": "one_and_done",
+  "product_name": "Organic Powdered Sugar",
+  "aisle": "baking ingredients",
+  "department": "pantry",
+  "buyers": 3094,
+  "repurchase_rate": 0.1393,
+  "avg_times": 1.2188
+ },
+ {
+  "kind": "one_and_done",
+  "product_name": "Cotton Swabs",
+  "aisle": "eye ear care",
+  "department": "personal care",
+  "buyers": 3711,
+  "repurchase_rate": 0.1382,
+  "avg_times": 1.2005
+ },
+ {
+  "kind": "one_and_done",
+  "product_name": "Oregano",
+  "aisle": "spices seasonings",
+  "department": "pantry",
+  "buyers": 4681,
+  "repurchase_rate": 0.1361,
+  "avg_times": 1.2168
+ },
+ {
+  "kind": "one_and_done",
+  "product_name": "Ground Black Pepper",
+  "aisle": "spices seasonings",
+  "department": "pantry",
+  "buyers": 3681,
+  "repurchase_rate": 0.1334,
+  "avg_times": 1.185
+ },
+ {
+  "kind": "one_and_done",
+  "product_name": "Toasted Sesame Seed Oil",
+  "aisle": "oils vinegars",
+  "department": "pantry",
+  "buyers": 3389,
+  "repurchase_rate": 0.1272,
+  "avg_times": 1.2001
+ },
+ {
+  "kind": "one_and_done",
+  "product_name": "Organic Ground Cumin",
+  "aisle": "spices seasonings",
+  "department": "pantry",
+  "buyers": 3557,
+  "repurchase_rate": 0.1217,
+  "avg_times": 1.176
+ },
+ {
+  "kind": "one_and_done",
+  "product_name": "Garlic Powder",
+  "aisle": "spices seasonings",
+  "department": "pantry",
+  "buyers": 5527,
+  "repurchase_rate": 0.1209,
+  "avg_times": 1.1885
+ },
+ {
+  "kind": "one_and_done",
+  "product_name": "Sea Salt Fine Crystals",
+  "aisle": "spices seasonings",
+  "department": "pantry",
+  "buyers": 4057,
+  "repurchase_rate": 0.1181,
+  "avg_times": 1.1817
+ },
+ {
+  "kind": "one_and_done",
+  "product_name": "Ground Cumin",
+  "aisle": "spices seasonings",
+  "department": "pantry",
+  "buyers": 4044,
+  "repurchase_rate": 0.0915,
+  "avg_times": 1.1499
+ },
+ {
+  "kind": "one_and_done",
+  "product_name": "Baking Powder",
+  "aisle": "baking ingredients",
+  "department": "pantry",
+  "buyers": 3826,
+  "repurchase_rate": 0.0761,
+  "avg_times": 1.0991
+ }
+]
