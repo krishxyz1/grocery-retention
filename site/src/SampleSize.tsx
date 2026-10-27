@@ -33,12 +33,12 @@ export function SampleSize({ baseline }: { baseline: number }) {
     <form className="calc" onSubmit={(e) => e.preventDefault()}>
       <div className="calc-out" aria-live="polite">
         <div>
-          <span className="calc-k">Shoppers per arm</span>
           <span className="calc-v">{valid ? num(n) : '–'}</span>
+          <span className="calc-k">shoppers in each arm</span>
         </div>
         <div>
-          <span className="calc-k">Weeks to enrol both arms</span>
           <span className="calc-v">{valid ? weeks : '–'}</span>
+          <span className="calc-k">weeks to enrol both arms</span>
         </div>
       </div>
       {!valid && <p className="calc-error">The baseline plus the lift has to stay under 100%, and every figure must be above zero.</p>}
