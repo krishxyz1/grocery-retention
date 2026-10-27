@@ -1,0 +1,13 @@
+{
+  "name": "grocery-retention",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "analyze": "node scripts/run.mjs",
+    "dev": "npm --prefix site run dev",
+    "build": "npm --prefix site run build"
+  },
+  "devDependencies": {
+    "@duckdb/node-api": "^2.0.0-r.1"
+  }
+}

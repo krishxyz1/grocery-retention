@@ -1,0 +1,6 @@
+node_modules/
+data/raw/
+data/*.duckdb
+data/*.duckdb.wal
+.DS_Store
+.env*
