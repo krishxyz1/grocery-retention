@@ -1,6 +1,6 @@
-# The habit is in the fruit aisle
+# Who Comes Back
 
-A retention teardown of 3.4M grocery orders (the Instacart 2017 open dataset): where shoppers drop off, what brings them back, and the experiment it leads to. Everything is written in SQL and run in DuckDB. A static report site shows the results, and every chart links to the query behind it.
+A retention explorer for 3.4M grocery orders (the Instacart 2017 open dataset). It covers cohorts by first basket, the habit window, order rhythm, aisle stickiness, shopper segments and a test planner. The numbers are computed with SQL in DuckDB and served to a small React app.
 
 [One-page memo](docs/memo.md) · [Experiment plan](docs/experiment-plan.md) · [All queries](sql/)
 
@@ -24,7 +24,7 @@ sql/
   01_model.sql                per-user timelines, baskets, user table
   10_headline.sql ... 19_*.sql one file per analysis, last SELECT is exported
 scripts/run.mjs               runs the SQL, writes site/src/data/*.json
-site/                         Vite + React report, hand-rolled SVG charts
+site/                         Vite + React explorer, hand-rolled SVG charts
 docs/                         memo + experiment plan
 ```
 
@@ -36,14 +36,14 @@ docs/                         memo + experiment plan
 
 npm install
 npm run analyze -- --rebuild   # load + model + every analysis (about 10 s on a laptop)
-npm run dev                    # report at localhost:5173
+npm run dev                    # explorer at localhost:5173
 ```
 
 `npm run analyze -- cohort` re-runs only the analyses whose filename matches.
 
 ## Deploy
 
-The report is a static site, and the JSON it reads is committed, so Vercel needs no database. Import the repo and Vercel picks up `vercel.json`. That builds `site/` and serves `site/dist`.
+The explorer is a static site, and the JSON it reads is committed, so Vercel needs no database. Import the repo and Vercel picks up `vercel.json`. That builds `site/` and serves `site/dist`.
 
 ## Caveats I designed around
 
